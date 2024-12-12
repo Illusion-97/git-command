@@ -1,0 +1,6 @@
+# Commentaire
+dev.properties
+#Terminer par / pour les dossiers
+lib/
+*.logs
+!data.logs
